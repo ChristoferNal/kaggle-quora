@@ -140,3 +140,7 @@ ENV/
 /data/3_word2vec.mdl.syn1neg.npy
 /data/3_word2vec.mdl.wv.syn0.npy
 /tmp/
+/tensorflow_word2vec/checkpoint
+/tensorflow_word2vec/word2vec_model-100000.meta
+/tensorflow_word2vec/word2vec_model-100000.index
+/tensorflow_word2vec/word2vec_model-100000.data-00000-of-00001
