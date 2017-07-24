@@ -135,3 +135,8 @@ ENV/
 .ropeproject
 
 /data/GoogleNews-vectors-negative300.bin
+/data/3_word2vec.bin
+/data/3_word2vec.mdl
+/data/3_word2vec.mdl.syn1neg.npy
+/data/3_word2vec.mdl.wv.syn0.npy
+/tmp/
