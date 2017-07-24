@@ -145,3 +145,6 @@ ENV/
 /tensorflow_word2vec/word2vec_model-100000.index
 /tensorflow_word2vec/word2vec_model-100000.data-00000-of-00001
 /tensorflow_word2vec/graphs/
+/data/sample_submission.csv
+/data/train.csv
+/data/test.csv
