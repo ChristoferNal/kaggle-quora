@@ -134,3 +134,4 @@ ENV/
 # Rope project settings
 .ropeproject
 
+/data/GoogleNews-vectors-negative300.bin
